@@ -7,7 +7,7 @@
 #' logit(0.5)
 #' logit(seq(from=0.1,to=0.9,length=8))
 #' @export
-logit <- function(p) log(p/(1-p))
+logit <- function(p) log(0+p/(1-p))
 
 #' inverse logit function
 #'
