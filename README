@@ -1,0 +1,1 @@
+rbclust is an R package that does row clustering on a matrix of binary data, with optional row and column covariates.
